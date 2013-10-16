@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset name="Grass" firstgid="1" tilewidth="32" tileheight="32">
+  <image source="tiles/1.png" trans="000000"/>
+ </tileset>
+ <tileset name="Untitled" firstgid="257" tilewidth="32" tileheight="32">
+  <image source="tiles/2.png" trans="000000"/>
+ </tileset>
+ <layer name="ground" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAGNkYGBgHMWjeBSP4lE8iknEALhlz4pABgAA
+  </data>
+ </layer>
+ <layer name="coll" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAGNgoA7gB2IBKpkFAuJALEFF80bdRxkYdR9lYNR9lAFc7nsDxG8J4HckuO8LEH8lgL+R4D5yzWMFYjYqmscLxHwMmOFFyKyvDNjDUhSIxYAYAAh2jeZABgAA
+  </data>
+ </layer>
+ <layer name="coll" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAANXSOU8CQRjG8VmtXBITNaEzMUErpRIrpZJGsfFoPBrALyBioUChaKHg1/Fo1EqtvMNpVNBGsfFoQAv+FCbjZpOVXULim/ySl5l5nyEDQtReC4oQQSwihCXFRIhUy8yvIIwIojp5I6yNwosxg/tW2V9DDOvY0Dk/ztoEJjGFffGbKvWb7G8hjgS2dfKmWZvBLOZqfI8uqf+500eGHwHMW3zfanX+4cwl91zhGjfYwS72TN6fYS6LHG5xgEMcmczLM1fAI55wjBOcSnkO+m706N2hWXvm8wuKeMUZznEhneul74PT4Du3sv+Gd3zgE0mkkJZm++ldGDDIs7NfQhlf+MYd7vEgzQ7SD8Fdh/9ItYbJ8dQp6z+Xwhs0aTRbeJcWZlUNm4W8NmbbNToa9LupUl8Bs5N+N0AGAAA=
+  </data>
+ </layer>
+ <layer name="ground" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAONkYGDgJBHjA6SaRax5pNhDjnnkAkLmCQKxEB4sTKJ9kkCsC8RKOLAyiW5RAWJpEt0AA4podutA3YbPDaQAkF/JddtQMA89PiiJCxDAFh+qDNRLe+jmk5L2qAnSgTiDiublA3EBFc0rB+IKKpklQiVzqAm4kNgAUOSXsEAGAAA=
+  </data>
+ </layer>
+ <objectgroup name="s" width="0" height="0">
+  <object name="Object" x="160" y="288" width="32" height="32"/>
+ </objectgroup>
+ <layer name="Layer 5" width="20" height="20" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAGNgGAWjgEzAiAUPRvPQ2ZSaN1j9OwpGAZ0BAKde5l1ABgAA
+  </data>
+ </layer>
+</map>
